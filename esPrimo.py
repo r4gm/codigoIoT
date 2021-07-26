@@ -14,7 +14,7 @@ def app():
     result = isPrime(num)
 
     if result is True:
-        print('¡El número es Primo!')
+        print('¡El número es Primo!!')
     else:
         print('El número NO es Primo!!')
 
